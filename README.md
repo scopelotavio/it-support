@@ -1,6 +1,6 @@
 # Technical Support Fundamentals
 
-## Introduction to IT
+## Module 01 - Introduction to IT
 
 ### Pioneers in Computing and IT
 Computer technology has come a long way since the first computer was invented. Along the way, many people from diverse backgrounds contributed inventions and innovations that helped us get to where we are today with modern computers. Without these individuals, information technology would not be where it is today. 
